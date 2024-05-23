@@ -3,6 +3,7 @@ var readline = require('readline').createInterface({
     output: process.stdout
 });
 console.log('Welcome in Rock, Paper or Scissor fucking\'s game');
+console.log('Hello World');
 var UserChoice;
 var computerChoice;
 function randomComputerChoice() {

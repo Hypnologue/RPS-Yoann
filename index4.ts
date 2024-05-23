@@ -4,7 +4,7 @@ const readline = require('readline').createInterface({
 });
 
 console.log('Welcome in Rock, Paper or Scissor fucking\'s game')
-
+console.log('Hello World')
 let UserChoice:number;
 let computerChoice:number;
 
